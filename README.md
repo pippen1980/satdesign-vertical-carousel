@@ -1,10 +1,10 @@
-# SatDesign Vertical Carousel
+# Satdesign Vertical Carousel
 
 Een WordPress plugin die een verticale afbeeldingen carousel widget toevoegt aan Elementor met een oneindige loop functionaliteit.
 
 ## Beschrijving
 
-SatDesign Vertical Carousel is een custom Elementor widget waarmee je een stijlvolle verticale carousel kunt toevoegen aan je WordPress website. De carousel ondersteunt oneindige loop animatie en is volledig aanpasbaar via de Elementor interface.
+Satdesign Vertical Carousel is een custom Elementor widget waarmee je een stijlvolle verticale carousel kunt toevoegen aan je WordPress website. De carousel ondersteunt oneindige loop animatie en is volledig aanpasbaar via de Elementor interface.
 
 ## Features
 
@@ -86,7 +86,7 @@ Om de carousel aan te passen:
 
 ## Auteur
 
-**SatDesign**
+**Satdesign**
 
 ## Licentie
 
